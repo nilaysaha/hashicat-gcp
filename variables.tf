@@ -6,7 +6,7 @@
 # prompted to enter it (or define it via config file or command line flags.)
 
 variable "project" {
-  description = "p-uohl6oxvpp7s1d9lg5x8iiyzlyiv"
+  description = "p-p6nhjb1a8r8986ksbi88s3ssmsxy"
 }
 
 variable "prefix" {
