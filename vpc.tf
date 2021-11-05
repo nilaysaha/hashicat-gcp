@@ -2,7 +2,7 @@ module "vpc" {
   source  = "app.terraform.io/testprod1972/network/google"
   version = "3.4.0"
   # insert required variables here
-  project_id   = "var.project"
+  project_id   = var.project
   network_name = "tproj-network-1"
 
   subnets = [
